@@ -4,9 +4,9 @@
       "Jeremy Mates <jmates@cpan.org>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.64, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "ExtUtils::MakeMaker version 6.6302, CPAN::Meta::Converter version 2.120921",
    "license" : [
-      "perl_5"
+      "unknown"
    ],
    "meta-spec" : {
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
@@ -35,13 +35,16 @@
             "Any::Moose" : "0",
             "App::MusicTools" : "0",
             "App::cpanminus" : "0",
+            "DBD::SQLite" : "0",
             "Data::Dumper::Concise" : "0",
             "Data::Dumper::Concise::Aligned" : "0",
+            "Devel::NYTProf" : "0",
             "File::AtomicWrite" : "0",
             "File::Cmp" : "0",
             "File::HomeDir" : "0",
             "File::Path::Tiny" : "0",
             "Hailo" : "0",
+            "Image::Size" : "0",
             "JSON" : "0",
             "LWP::UserAgent" : "0",
             "MIDI::Simple" : "0",
@@ -53,6 +56,9 @@
             "Term::ReadKey" : "0",
             "Term::ReadLine::Gnu" : "0",
             "Text::Autoformat" : "0",
+            "Text::Levenshtein" : "0",
+            "Text::Metaphone" : "0",
+            "Text::WagnerFischer" : "0",
             "Time::HiRes" : "0",
             "URI" : "0",
             "XML::LibXML" : "0",
@@ -71,5 +77,5 @@
          "url" : "http://github.com/thrig/Task-BeLike-JMATES-Play"
       }
    },
-   "version" : "0.02"
+   "version" : "0.03"
 }
