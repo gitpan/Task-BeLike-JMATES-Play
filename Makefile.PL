@@ -29,6 +29,7 @@ my %params = (
     'LWP::UserAgent'                 => 0,
     'MIDI::Simple'                   => 0,
     'Math::Combinatorics'            => 0,
+    'Math::Random::Discrete'         => 0,
     'Moo'                            => 0,
     'Music::NeoRiemannianTonnetz'    => 0,
     'Perl::Tidy'                     => 0,

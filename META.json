@@ -49,6 +49,7 @@
             "LWP::UserAgent" : "0",
             "MIDI::Simple" : "0",
             "Math::Combinatorics" : "0",
+            "Math::Random::Discrete" : "0",
             "Moo" : "0",
             "Music::NeoRiemannianTonnetz" : "0",
             "Perl::Tidy" : "0",
@@ -77,5 +78,5 @@
          "url" : "http://github.com/thrig/Task-BeLike-JMATES-Play"
       }
    },
-   "version" : "0.03"
+   "version" : "0.04"
 }
