@@ -1,0 +1,34 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.73.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 2acac9f0172898837c7558ffb07f3b2f2cd70743 Changes
+SHA1 f5f6e4d80051b67bfaca657a9a95106e60a4bd3a MANIFEST
+SHA1 f064be039bfca2abc3ecb1ece14c280d8322b519 Makefile.PL
+SHA1 066f23eac5529dea7178ecba1e960428f32f43fa README
+SHA1 c25f3010cb9505e5283ba8ffbfed106a501723ca lib/Task/BeLike/JMATES/Play.pm
+SHA1 9371b54660490802d561e6e5f55feb96eb4be391 t/Task-BeLike-JMATES-Play.t
+SHA1 3ef65383d82f059f56f43236663119c01974decb t/pod.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJTMEccAAoJEDTEVWqwTuCUYU4H/Rd9lKnpg5Loa6tAAMlVyu3R
+be+xGy86PFQ9+i3EmBTkZPquU/TjY/sZubNamEekVgSOB6FqFIksVD5TEcu6y8Md
+WOv5cwXEK9rWQctVweK1XePH22PUyA+dG+Stdl8pKQUivxWptxAomi3D4VO4gTXP
+mWL8Ul61lThFDp8HiUiWMYmVH35Ip7ZbGLazln+jcaUDo8ugVhLzGzsry/shSfT6
++ZxpnCls1p/AZmetcjcBwn/iVzi0Gcr7U9Mx4Lq1GaXc5HTUQH7rQ76RaihvR11o
+egFwM9ulSHXvEJsiNvoExflWPSRm59p+YNP4R7a9lk7XiloNE/YeG2HlnXD/bz8=
+=Dig3
+-----END PGP SIGNATURE-----
