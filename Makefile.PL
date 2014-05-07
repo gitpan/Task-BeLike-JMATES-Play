@@ -28,6 +28,7 @@ my %params = (
     'File::Cmp'                      => 0,
     'File::HomeDir'                  => 0,
     'File::Path::Tiny'               => 0,
+    'File::Slurp::Tiny'              => 0,
     'Hailo'                          => 0,
     'Image::Size'                    => 0,
     'JSON'                           => 0,
@@ -84,4 +85,4 @@ if ( $ExtUtils::MakeMaker::VERSION ge '6.48' ) {
   $params{MIN_PERL_VERSION} = 5.010000;
 }
 
-WriteMakefile((MM->can('signature_target') ? (SIGN => 1) : ()), %params);
+WriteMakefile( ( MM->can('signature_target') ? ( SIGN => 1 ) : () ), %params );

@@ -48,6 +48,7 @@
             "File::Cmp" : "0",
             "File::HomeDir" : "0",
             "File::Path::Tiny" : "0",
+            "File::Slurp::Tiny" : "0",
             "Hailo" : "0",
             "Image::Size" : "0",
             "JSON" : "0",
@@ -83,5 +84,5 @@
          "url" : "http://github.com/thrig/Task-BeLike-JMATES-Play"
       }
    },
-   "version" : "0.06"
+   "version" : "0.07"
 }
