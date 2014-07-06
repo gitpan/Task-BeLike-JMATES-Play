@@ -12,7 +12,6 @@ my %params = (
   ABSTRACT     => 'modules used by JMATES (not for work)',
   VERSION_FROM => 'lib/Task/BeLike/JMATES/Play.pm',
   PREREQ_PM    => {
-    'Any::Moose'                     => 0,
     'App::Ack'                       => 0,
     'App::MusicTools'                => 0,
     'App::cpanminus'                 => 0,

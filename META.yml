@@ -3,62 +3,61 @@ abstract: 'modules used by JMATES (not for work)'
 author:
   - 'Jeremy Mates <jmates@cpan.org>'
 build_requires:
-  ExtUtils::MakeMaker: 0
+  ExtUtils::MakeMaker: '0'
 configure_requires:
-  ExtUtils::MakeMaker: 0
+  ExtUtils::MakeMaker: '0'
 dynamic_config: 1
 generated_by: 'ExtUtils::MakeMaker version 6.6302, CPAN::Meta::Converter version 2.120921'
 license: unknown
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
-  version: 1.4
+  version: '1.4'
 name: Task-BeLike-JMATES-Play
 no_index:
   directory:
     - t
     - inc
 requires:
-  Any::Moose: 0
-  App::Ack: 0
-  App::MusicTools: 0
-  App::cpanminus: 0
-  Astro::Sunrise: 0
-  DBD::SQLite: 0
-  Data::Dumper::Concise: 0
-  Data::Dumper::Concise::Aligned: 0
-  DateTime: 0
-  DateTime::Format::Epoch: 0
-  DateTime::Format::Strptime: 0
-  Devel::NYTProf: 0
-  File::AtomicWrite: 0
-  File::Cmp: 0
-  File::HomeDir: 0
-  File::Path::Tiny: 0
-  File::Slurp::Tiny: 0
-  Hailo: 0
-  Image::Size: 0
-  JSON: 0
-  LWP::UserAgent: 0
-  MIDI::Simple: 0
-  Math::Combinatorics: 0
-  Math::Random::Discrete: 0
-  Moo: 0
-  Music::NeoRiemannianTonnetz: 0
-  Perl::Tidy: 0
-  Term::CallEditor: 0
-  Term::ReadKey: 0
-  Term::ReadLine::Gnu: 0
-  Text::Autoformat: 0
-  Text::Levenshtein: 0
-  Text::Metaphone: 0
-  Text::WagnerFischer: 0
-  Time::HiRes: 0
-  URI: 0
-  XML::LibXML: 0
-  XML::LibXML::XPathContext: 0
-  perl: 5.01
+  App::Ack: '0'
+  App::MusicTools: '0'
+  App::cpanminus: '0'
+  Astro::Sunrise: '0'
+  DBD::SQLite: '0'
+  Data::Dumper::Concise: '0'
+  Data::Dumper::Concise::Aligned: '0'
+  DateTime: '0'
+  DateTime::Format::Epoch: '0'
+  DateTime::Format::Strptime: '0'
+  Devel::NYTProf: '0'
+  File::AtomicWrite: '0'
+  File::Cmp: '0'
+  File::HomeDir: '0'
+  File::Path::Tiny: '0'
+  File::Slurp::Tiny: '0'
+  Hailo: '0'
+  Image::Size: '0'
+  JSON: '0'
+  LWP::UserAgent: '0'
+  MIDI::Simple: '0'
+  Math::Combinatorics: '0'
+  Math::Random::Discrete: '0'
+  Moo: '0'
+  Music::NeoRiemannianTonnetz: '0'
+  Perl::Tidy: '0'
+  Term::CallEditor: '0'
+  Term::ReadKey: '0'
+  Term::ReadLine::Gnu: '0'
+  Text::Autoformat: '0'
+  Text::Levenshtein: '0'
+  Text::Metaphone: '0'
+  Text::WagnerFischer: '0'
+  Time::HiRes: '0'
+  URI: '0'
+  XML::LibXML: '0'
+  XML::LibXML::XPathContext: '0'
+  perl: '5.01'
 resources:
   homepage: http://github.com/thrig/Task-BeLike-JMATES-Play
   license: http://dev.perl.org/licenses/
   repository: http://github.com/thrig/Task-BeLike-JMATES-Play
-version: 0.07
+version: '0.08'
