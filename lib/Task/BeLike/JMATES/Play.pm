@@ -3,7 +3,7 @@ package Task::BeLike::JMATES::Play;
 use 5.010000;
 use strict;
 use warnings;
-our $VERSION = '0.08';
+our $VERSION = '0.09';
 
 1;
 __END__
@@ -37,7 +37,7 @@ L<Task::BeLike::JMATES>, L<Task::BeLike::JMATES::WorkWorkWork>
 
 =head1 AUTHOR
 
-Jeremy Mates, E<lt>jmates@cpan.orgE<gt>
+thrig - Jeremy Mates (cpan:JMATES) C<< <jmates at cpan.org> >>
 
 =head1 COPYRIGHT AND LICENSE
 

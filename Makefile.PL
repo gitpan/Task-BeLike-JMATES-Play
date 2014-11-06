@@ -47,6 +47,7 @@ my %params = (
     'Text::Levenshtein'   => 0,
     'Text::Metaphone'     => 0,
     'Text::WagnerFischer' => 0,
+    'Text::Xslate'        => 0,
     'Time::HiRes'         => 0,
     'URI'                 => 0,
   },

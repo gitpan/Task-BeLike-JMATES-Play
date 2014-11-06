@@ -51,6 +51,7 @@ requires:
   Text::Levenshtein: '0'
   Text::Metaphone: '0'
   Text::WagnerFischer: '0'
+  Text::Xslate: '0'
   Time::HiRes: '0'
   URI: '0'
   XML::LibXML: '0'
@@ -60,4 +61,4 @@ resources:
   homepage: http://github.com/thrig/Task-BeLike-JMATES-Play
   license: http://dev.perl.org/licenses/
   repository: http://github.com/thrig/Task-BeLike-JMATES-Play
-version: '0.08'
+version: '0.09'
