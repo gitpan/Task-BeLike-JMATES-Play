@@ -4,9 +4,9 @@
       "Jeremy Mates <jmates@cpan.org>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.6302, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.142690",
    "license" : [
-      "unknown"
+      "perl_5"
    ],
    "meta-spec" : {
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
@@ -37,6 +37,7 @@
             "App::cpanminus" : "0",
             "Astro::Sunrise" : "0",
             "DBD::SQLite" : "0",
+            "DBI" : "0",
             "Data::Dumper::Concise" : "0",
             "Data::Dumper::Concise::Aligned" : "0",
             "DateTime" : "0",
@@ -84,5 +85,5 @@
          "url" : "http://github.com/thrig/Task-BeLike-JMATES-Play"
       }
    },
-   "version" : "0.09"
+   "version" : "0.10"
 }
