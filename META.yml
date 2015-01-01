@@ -44,6 +44,7 @@ requires:
   Math::Random::Discrete: '0'
   Moo: '0'
   Music::NeoRiemannianTonnetz: '0'
+  Net::DNS: '0'
   Perl::Tidy: '0'
   Term::CallEditor: '0'
   Term::ReadKey: '0'
@@ -62,4 +63,4 @@ resources:
   homepage: http://github.com/thrig/Task-BeLike-JMATES-Play
   license: http://dev.perl.org/licenses/
   repository: http://github.com/thrig/Task-BeLike-JMATES-Play
-version: '0.10'
+version: '0.11'

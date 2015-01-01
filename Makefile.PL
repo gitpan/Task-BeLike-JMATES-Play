@@ -39,6 +39,7 @@ my %params = (
     'Math::Random::Discrete'         => 0,
     'Moo'                            => 0,
     'Music::NeoRiemannianTonnetz'    => 0,
+    'Net::DNS'                       => 0,
     'Perl::Tidy'                     => 0,
     'Term::CallEditor'               => 0,
     'Term::ReadKey'                  => 0,
