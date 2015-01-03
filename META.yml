@@ -30,6 +30,7 @@ requires:
   DateTime::Format::Epoch: '0'
   DateTime::Format::Strptime: '0'
   Devel::NYTProf: '0'
+  Dist::Zilla: '0'
   File::AtomicWrite: '0'
   File::Cmp: '0'
   File::HomeDir: '0'
@@ -45,6 +46,7 @@ requires:
   Moo: '0'
   Music::NeoRiemannianTonnetz: '0'
   Net::DNS: '0'
+  Perl::Critic: '0'
   Perl::Tidy: '0'
   Term::CallEditor: '0'
   Term::ReadKey: '0'
@@ -63,4 +65,4 @@ resources:
   homepage: http://github.com/thrig/Task-BeLike-JMATES-Play
   license: http://dev.perl.org/licenses/
   repository: http://github.com/thrig/Task-BeLike-JMATES-Play
-version: '0.11'
+version: '0.12'
